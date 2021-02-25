@@ -4,12 +4,9 @@
 #Hint: You can resolve this exercise either importing the math module or without it 
 def apple_sharing(n,k):
   
-    num1 = round(k / n)
-    num2 = (num1 * n)
-    num3 = (k-num2)
-    dev =(num1 , num3)
-    return dev 
-
+  return None
+ 
+    
 
 #Print the two answer per the example output.
-print(apple_sharing(8,50))
+print(apple_sharing())
